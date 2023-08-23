@@ -1,5 +1,13 @@
-//TODO
-- retrieve dockeruser name / password from env variables ✅
--  set docker username/password in GIT ✅
--  Make a snyk project?
--  Add Dockerfile to the cookie cutter ⚡
+#Tic Tac Toe
+
+## Components
+
+Game class
+Board class
+Cell class
+
+### Create a 3x3 board consisting of cells
+
+#### Units
+Create an empty cell
+Create a board
