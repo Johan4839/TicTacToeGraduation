@@ -15,7 +15,7 @@
   },
   "plugins": [
     "@typescript-eslint",
-    "prettier"
+     "prettier"
   ],
   "rules": {
     "prettier/prettier": [
