@@ -4,7 +4,7 @@ The game consists of a board of 3x3. When referring to a coordinate this is done
 Scenario: Horizontal victory
 	Given a game of Tic Tac Toe
 	And two players want to play
-	And there is a 3x3 board
+	And there is a 3x3 empty board
 	And player 1 plays with the X
 	And player 2 plays with the O
 	And player 1 plays at (0,0)
